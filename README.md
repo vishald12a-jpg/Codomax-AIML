@@ -114,62 +114,53 @@ This project helped me apply Python fundamentals to create a complete command-li
 
 ## Data Analysis & Visualization
 
-## Project - Student Performance Data Analysis
+### Project - Student Performance Data Analysis
 
 Analyzed and visualized student performance data using Python.
 
+
 ### Topics Covered
 
-NumPy
+NumPy                                                               Subject average analysis               
 
-Pandas
+Pandas                                                               Data visualization   
 
-Matplotlib
+Matplotlib                                                           Visualizations
 
-DataFrame
+DataFrame                                                            Bar chart           
 
-Data exploration
+Data exploration                                                     Line chart
 
-Missing value handling
+Missing value handling                                               Pie chart                                              
 
 Statistical analysis
 
-Subject average analysis
 
-Data visualization
-
-Visualizations
-
-Bar chart
-
-Line chart
-
-Pie chart
 
 ### Project Workflow:
 
 Create Dataset
-      ↓
+      ->
 Explore Dataset
-      ↓
+      ->
 Check Missing Values
-      ↓
+      ->
 Clean Data
-      ↓
+      ->
 Statistical Analysis
-      ↓
+      ->
 Subject Average Analysis
-      ↓
+      ->
 Student Performance Analysis
-      ↓
+      ->
 Bar Chart
-      ↓
+      ->
 Line Chart
-      ↓
+      ->
 Grade Calculation
-      ↓
+      ->
 Pie Chart
-      ↓
+      ->
 Final Insights
 
 ### Platform Used
