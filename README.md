@@ -109,3 +109,73 @@ Module-2/
 ### Learning Outcome
 
 This project helped me apply Python fundamentals to create a complete command-line application. I practiced functions, loops, conditions, lists, input validation, and basic problem-solving.
+
+# Codomax AI/ML - Module 3
+
+## Data Analysis & Visualization
+
+## Project - Student Performance Data Analysis
+
+Analyzed and visualized student performance data using Python.
+
+### Topics Covered
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+DataFrame
+
+Data exploration
+
+Missing value handling
+
+Statistical analysis
+
+Subject average analysis
+
+Data visualization
+
+Visualizations
+
+Bar chart
+
+Line chart
+
+Pie chart
+
+### Project Workflow:
+
+Create Dataset
+      ↓
+Explore Dataset
+      ↓
+Check Missing Values
+      ↓
+Clean Data
+      ↓
+Statistical Analysis
+      ↓
+Subject Average Analysis
+      ↓
+Student Performance Analysis
+      ↓
+Bar Chart
+      ↓
+Line Chart
+      ↓
+Grade Calculation
+      ↓
+Pie Chart
+      ↓
+Final Insights
+
+### Platform Used
+
+Google Colab
+
+### Learning Outcome
+
+Learned how to explore, clean, analyze, and visualize data using Python.
