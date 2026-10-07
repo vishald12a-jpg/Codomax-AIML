@@ -172,16 +172,16 @@ Google Colab
 Learned how to explore, clean, analyze, and visualize data using Python.
 
 
-#Codomax AI/ML - Module 4
+#C odomax AI/ML - Module 4
 
-##Machine Learning Fundamentals
+## Machine Learning Fundamentals
 
-#Project - Iris Flower Classification
+# Project - Iris Flower Classification
 
 Built a basic Machine Learning classification model using the Iris dataset and K-Nearest Neighbors (KNN).
 
 
-#Topics Covered
+# Topics Covered
 
 Iris dataset
 
@@ -204,7 +204,7 @@ Classification report
 Confusion matrix
 
 
-#Technologies Used
+# Technologies Used
 
 Python
 
@@ -219,6 +219,6 @@ Scikit-learn
 Google Colab
 
 
-#Learning Outcome
+# Learning Outcome
 
 Learned the basic Machine Learning workflow from dataset preparation to model training, prediction, and evaluation.
