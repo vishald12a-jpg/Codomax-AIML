@@ -172,7 +172,7 @@ Google Colab
 Learned how to explore, clean, analyze, and visualize data using Python.
 
 
-#C odomax AI/ML - Module 4
+# C odomax AI/ML - Module 4
 
 ## Machine Learning Fundamentals
 
